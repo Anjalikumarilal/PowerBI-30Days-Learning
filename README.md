@@ -29,8 +29,8 @@ This repository documents my daily learning, hands-on practice, notes, and mini 
 |-----|-------|--------|
 | Day 1 | Introduction to Power BI  | [View Notes](Day-01-Introduction-to-Power-BI.md) | ✅ Completed |
 | Day 2 | Import data into Power Bi | [View Notes](Day-02-Import-data-into-Power-BI.md) | ✅ Completed |
-| Day 3 | Data Transformation | [View Notes](Day-3-Data-Transformation.md) | ✅ Completed |
-| Day 4 | Append Data | [view Notes](Day-4-Append-Data.md) | ✅ Completed |
+| Day 3 | Data Transformation | [View Notes](Day-03-Data-Transformation.md) | ✅ Completed |
+| Day 4 | Append Data | [view Notes](Day-04-Append-Data.md) | ✅ Completed |
 | ... | ... | ... |
 | ... | ... | ... |
 | Day 30 | Final Dashboard Project | ⏳ |
