@@ -27,7 +27,7 @@ This repository documents my daily learning, hands-on practice, notes, and mini 
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| Day 1 | Introduction to Power BI  | [View Notes] (Day-01-Introduction-to-Power-BI.md) | ✅ Completed |
+| Day 1 | Introduction to Power BI  | [View Notes](Day-01-Introduction-to-Power-BI.md) | ✅ Completed |
 | Day 2 | Coming Soon | ⏳ |
 | Day 3 | Coming Soon | ⏳ |
 | ... | ... | ... |
