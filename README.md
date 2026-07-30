@@ -30,9 +30,15 @@ This repository documents my daily learning, hands-on practice, notes, and mini 
 | Day 1 | Introduction to Power BI  | [View Notes](Day-01-Introduction-to-Power-BI.md) | ✅ Completed |
 | Day 2 | Import data into Power Bi | [View Notes](Day-02-Import-data-into-Power-BI.md) | ✅ Completed |
 | Day 3 | Data Transformation | [View Notes](Day-03-Data-Transformation.md) | ✅ Completed |
-| Day 4 | Append Data | [view Notes](Day-04-Append-Data.md) | ✅ Completed |
-| ... | ... | ... |
-| ... | ... | ... |
+| Day 4 | Append Data | [View Notes](Day-04-Append-Data.md) | ✅ Completed |
+| Day 5 | Modeling Create Relationship | [View Notes](Day-05-Modeling-Create-Relationship.md) | ✅ Completed |
+| Day 6 | Page Formatting | [View Notes](Day-06-Page-Formatting.md) | ✅ Completed |
+| Day 7 | Adding Column Visual Chart | [View Notes](Day-07-Adding-Column-Visual-Chart.md) | ✅ Completed |
+| Day 8 |   |   | ✅ Completed |
+| Day 9 |   |   | ✅ Completed |
+| Day 10 |   |   | ✅ Completed |
+| Day 11 |   |   | ✅ Completed |
+| Day 12 |   |   | ✅ Completed |
 | Day 30 | Final Dashboard Project | ⏳ |
 
 ## 📂 Repository Structure
