@@ -80,7 +80,7 @@ Answer: It is used to clean, transform, and prepare data before creating reports
 
 Q4. What are the three main views in Power BI Desktop?
 Answer:
-    Report View, Data View, Model View
+      Report View, Data View, Model View
     
 Q5. Why is checking imported data important?
 Answer: To verify that the data is complete, accurate, and ready for analysis.
