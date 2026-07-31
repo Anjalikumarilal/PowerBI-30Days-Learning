@@ -34,9 +34,9 @@ This repository documents my daily learning, hands-on practice, notes, and mini 
 | Day 5 | Modeling Create Relationship | [View Notes](Day-05-Modeling-Create-Relationship.md) | ✅ Completed |
 | Day 6 | Page Formatting | [View Notes](Day-06-Page-Formatting.md) | ✅ Completed |
 | Day 7 | Adding Column Visual Chart | [View Notes](Day-07-Adding-Column-Visual-Chart.md) | ✅ Completed |
-| Day 8 | Formatting Column and Bar Chart 1 |  [View Notes] | ✅ Completed |
-| Day 9 | Formatting Column and Bar Chart 2  | [View Notes]  | ✅ Completed |
-| Day 10 | Formatting Column and Bar Chart 3  | [View Notes]  | ✅ Completed |
+| Day 8 | Formatting Column and Bar Chart 1 |  [View Notes](Day-8-Formatting-of-Column-and-Bar-Chart-1.md) | ✅ Completed |
+| Day 9 | Formatting Column and Bar Chart 2  | [View Notes](Day-9-Formatting-of-Column-and-Bar-Chart-2.md) | ✅ Completed |
+| Day 10 | Formatting Column and Bar Chart 3  | [View Notes](Day-10-Formatting-of-Column-and-Bar-Chart-3.md) | ✅ Completed |
 | Day 11 |   |   | ✅ Completed |
 | Day 12 |   |   | ✅ Completed |
 | Day 30 | Final Dashboard Project | ⏳ |
